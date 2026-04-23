@@ -71,7 +71,7 @@ A workout tracker I built because I actually needed one. Log exercises, track vo
 #### 🛒 [Product Catalog App](https://github.com/BugSlayer9000/Product-Catalog-App)
 An e-commerce style product store. Full CRUD with a clean, responsive UI for browsing and managing products.
 
-`MongoD` `Express` `React` `Node.js`
+`MongoDB` `Express` `React` `Node.js`
 
 </td>
 <td width="50%" valign="top">
