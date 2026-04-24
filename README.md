@@ -1,6 +1,6 @@
 <div align="center">
 
-# Samod Subhasha (Sam
+# Samod Subhasha (Sam)
 
 **Full-Stack Developer · Glasgow, Scotland**
 
