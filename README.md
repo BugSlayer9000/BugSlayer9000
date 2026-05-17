@@ -17,7 +17,7 @@ Building real things with the MERN stack — one deploy at a time.
 
 I'm a self-taught developer who went from writing Python CLI tools to shipping full-stack web apps. Everything you see here — I coded it, debugged it, and deployed it myself.
 
-When I'm not building, I'm at the gym or researching stocks on the Colombo Stock Exchange.
+When I'm not building, I'm at the gym or researching stocks.
 
 ---
 
